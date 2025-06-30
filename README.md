@@ -1,7 +1,7 @@
 # 🚗 LyftIUL: A Python-based Carpooling Management System 🚗
 
 <p align="center">
-  <img src="./img/LyftIUL_logo.png" alt="LyftIUL Logo" width="200">
+  <img src="./img/LyftIUL_logo-no-bg.png" alt="LyftIUL Logo" width="200">
 </p>
 
 <p align="center"><b>Academic Year:</b> 2021/2022 <b>| 1st Semester | 1st Year</b></p>
